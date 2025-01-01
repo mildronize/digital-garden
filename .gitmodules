@@ -1,0 +1,4 @@
+[submodule "content/private"]
+	path = content/private
+	url = git@github.com:mildronize/digital-garden-private.git
+	branch = main

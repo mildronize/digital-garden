@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "garden.thadaw.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
