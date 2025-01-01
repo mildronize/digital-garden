@@ -28,6 +28,11 @@ Azure Kubernetes Service [https://www.the-aks-checklist.com/](https://www.the-ak
 - [[JWT]]
 - [[Dotfiles]]
 - [[Docker]]
+- [[Micro-Frontend]]
+- [[Terraform]]
+- [[DevOps]]
+- [[ Mozilla Sops]]
+- [[Microservice]]
 
 ## Web Assets
  - [[Icons]]
