@@ -20,7 +20,14 @@ Azure Kubernetes Service [https://www.the-aks-checklist.com/](https://www.the-ak
 ## Domain
 - [[React]]
 - [[DOT NET]]
-
+- [[TypeScript]]
+- [[VS Code]]
+- [[Mock]]
+- [[Best Practice Dev]]
+- [[Refresh Token]]
+- [[JWT]]
+- [[Dotfiles]]
+- [[Docker]]
 
 ## Web Assets
  - [[Icons]]
