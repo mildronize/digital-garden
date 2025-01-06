@@ -19,9 +19,9 @@ jobs:
        contents: read
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: mildronize/digital-garden-private
           path: content/private
@@ -33,7 +33,7 @@ jobs:
       - name: Install OIDC Client from Core Package
         run: npm install @actions/core@1.6.0 @actions/http-client
       - name: Get Id Token
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         id: idtoken
         with:
            script: |
